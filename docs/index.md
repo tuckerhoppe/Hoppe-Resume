@@ -20,7 +20,8 @@ Computer Scientist
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.4  GPA
+- Computer Science
 
 
 ## Related Experience
