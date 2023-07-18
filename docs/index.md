@@ -8,7 +8,7 @@ Computer Scientist
 <div id="webaddress">
 <a href="tuckerhoppe22@gmail.com">tuckerhoppe22@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="[https://www.linkedin.com/groups/13537407/](https://www.linkedin.com/in/tucker-hoppe-6a1595247/)">LinkedIn</a>
+| <a href="https://www.linkedin.com/groups/13537407/](https://www.linkedin.com/in/tucker-hoppe-6a1595247/)">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
