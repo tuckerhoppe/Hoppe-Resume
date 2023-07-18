@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Tucker Hoppe's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Tucker Hoppe
+Computer Scientist
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,12 +16,8 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
@@ -31,59 +27,50 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2023 - April 2022`
+__Curtiss-Wright__, Idaho Falls, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Tested Complex Nuclear Power plant software. Evaluated multiple displays a week, and composed tests to assure quality on over 100 features.
+- Logged over 50 issues in a specific fashion so team members would understand and be able to identify bugs. Offered possible solutions to fix issues.
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Web Content Publisher
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`September 2021 - July 2023`
+__BYU-Idaho__, 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+ -Redesigned, published, and consolidated over 75 pages on BYU-Idaho's school website while working on a team. 
+ -Offered Feedback on multiple pages being worked on by a team of over 10 people.
+ -Trained new employees to use development software and company best practices.
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+
+### Data Science 
 
 `January 2027 - April 2027`
-__Imagine Learning__
+__Machine Learning Course__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Explored multiple complex data sets to find and identify patterns, errors, and useful information
+- Built complex machine learning models including, Neural Networks, Recurrent Neural Networks and Convolutional Neural Networks
+- Collaborated on a team of 5 other programmers with varying skill levels. Communicated about issues, in code and methodology.
 
 `April 2027 - July 2027`
-__Pinnacle Management Group__, 
+__Data Science Programming__, 
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Learned multiple Data Science programming techniques
+- Applied what I learned in complex problems and projects
 
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Full Time Missionary__, Cincinnati OH
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
 
